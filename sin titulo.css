@@ -1,0 +1,42 @@
+#a1 {
+	background-color: #B8A47A;
+	width: 33%;
+	display: inline;
+	float: left;
+}
+.tituloreq {
+	background-color: #F1B023;
+	color: white;
+    text-align: center;
+    box-sizing: content-box;
+    border-color: black 5px;
+}
+#a2 {
+	background-color: #BBB7AE;
+	width: 50%;
+	display: inline;
+	float: left;
+}
+table {
+	size: auto;
+    width: 100%;
+    border: 1px solid #000;
+    background-color: white;
+
+}
+td {
+	border: 1px solid #000;
+}
+#tabla1 td {
+	width: 33%
+}
+form {
+	align-content: center;
+}
+div {
+	text-align: center;
+}
+button {
+	background-color: #181817;
+	color: white;
+}
