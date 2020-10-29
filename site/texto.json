@@ -1,0 +1,18 @@
+[ 
+	{
+		"nombre": "bruno",
+		"id": 45, 
+		"estado": true
+	},
+	{
+		"nombre": "juan",
+		"id": 36, 
+		"estado": false 
+	},
+	{
+		"nombre": "Aeiou",
+		"id": 95,
+		"estado": true
+	}
+
+]
